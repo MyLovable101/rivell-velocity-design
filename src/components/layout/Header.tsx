@@ -32,8 +32,8 @@ export const Header = () => {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
-            <Link to="/" className="flex items-center">
-              <img src={rivellLogo} alt="Rivell" className="h-10 w-auto" />
+            <Link to="/" className="flex items-center backdrop-blur-sm bg-white/5 p-2 rounded-lg hover:bg-white/10 transition-all">
+              <img src={rivellLogo} alt="Rivell" className="h-12 w-auto" />
             </Link>
 
             {/* Desktop Navigation */}

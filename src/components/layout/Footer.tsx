@@ -30,7 +30,9 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12">
           {/* Brand Column */}
           <div className="lg:col-span-2">
-            <img src={rivellLogo} alt="Rivell" className="h-10 w-auto mb-6" />
+            <div className="backdrop-blur-sm bg-white/5 p-2.5 rounded-lg inline-block mb-6 hover:bg-white/10 transition-all">
+              <img src={rivellLogo} alt="Rivell" className="h-14 w-auto" />
+            </div>
             <p className="text-muted-foreground mb-6 max-w-sm">
               Your trusted partner for Managed IT Services and Cybersecurity. 
               Technology, Simplified.

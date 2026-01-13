@@ -26,7 +26,7 @@ const services = [
   {
     icon: Shield,
     title: "Cybersecurity",
-    description: "Enterprise-grade security for businesses of all sizes. Protect your data, your customers, and your reputation.",
+    description: "Enterprise grade security for businesses of all sizes. Protect your data, your customers, and your reputation.",
     features: ["Threat Detection", "Security Audits", "Compliance Support"],
     href: "/services/cybersecurity",
     gradient: "from-primary to-violet-500",
@@ -42,7 +42,7 @@ const services = [
   {
     icon: Phone,
     title: "VoIP Phone Systems",
-    description: "Modern business communication solutions. Crystal-clear calls, advanced features, and significant cost savings.",
+    description: "Modern business communication solutions. Crystal clear calls, advanced features, and significant cost savings.",
     features: ["Unified Communications", "Video Conferencing", "Mobile Integration"],
     href: "/services/voip",
     gradient: "from-accent to-yellow-500",

@@ -59,7 +59,7 @@ export const HeroSection = () => {
             className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10"
           >
             Premier Managed IT Services & Cybersecurity for growing businesses. 
-            Stop worrying about technology—start focusing on what you do best.
+            Stop worrying about technology start focusing on what you do best.
           </motion.p>
 
           {/* CTA Buttons */}

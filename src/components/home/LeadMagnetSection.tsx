@@ -43,8 +43,8 @@ export const LeadMagnetSection = () => {
                   The Ultimate Cybersecurity Checklist for 2025
                 </h3>
                 <p className="text-muted-foreground mb-6">
-                  Protect your business with our comprehensive 27-point security audit checklist. 
-                  Used by Fortune 500 companies—now available free.
+                  Protect your business with our comprehensive 27 point security audit checklist. 
+                  Used by Fortune 500 companies now available free.
                 </p>
                 <ul className="space-y-3 mb-6">
                   {["Ransomware Prevention Tips", "Employee Security Training Guide", "Compliance Roadmap"].map((item) => (
